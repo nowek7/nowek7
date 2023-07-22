@@ -23,8 +23,12 @@ I'm currently interested in learning Rust and strengthening my proficiency in Go
 
 <p align="center">
   <img title="Ubuntu" height="45" src="assets/ubuntu.png">
-  <img title="C++" height="45" src="assets/cpp.svg">
-  <img title="Python" height="45" src="assets/python.svg">
+  <a href="https://github.com/nowek7/cpp_codes">
+    <img title="C++" height="45" src="assets/cpp.svg">
+  </a>
+  <a href="https://github.com/nowek7/python-codes">
+    <img title="Python" height="45" src="assets/python.svg">
+  </a>
   <img title="C" height="45" src="assets/c.svg">
   <img title="Bash" height="45" src="assets/bash.svg">
   <img title="Powershell" height="45" src="assets/powershell.svg">
@@ -41,7 +45,7 @@ I'm currently interested in learning Rust and strengthening my proficiency in Go
   <a href="mailto:mnowak@duck.com">
     <img src="assets/gmail.svg" alt="email"/>
   </a>
-  <a href="https://www.linkedin.com/in/micha\%C5\%82-nowak-777963163/">
+  <a href="https://www.linkedin.com/in/micha%C5%82-nowak-777963163/">
     <img src="assets/linkedin.svg" alt="linkedin"/>
   </a>
 </p>
