@@ -43,10 +43,13 @@ I'm currently interested in learning Rust and strengthening my proficiency in Go
 
 <p align="center">
   <a href="mailto:mnowak@duck.com">
-    <img src="assets/gmail.svg" alt="email"/>
+    <img src="assets/gmail.svg" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/micha%C5%82-nowak-777963163/">
-    <img src="assets/linkedin.svg" alt="linkedin"/>
+    <img src="assets/linkedin.svg" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/user6950/">
+    <img src="assets/leet_code.png" alt="LeetCode" />
   </a>
 </p>
 
