@@ -33,6 +33,7 @@ I'm currently interested in learning Rust and strengthening my proficiency in Go
   <img title="Bash" height="45" src="assets/bash.svg">
   <img title="Powershell" height="45" src="assets/powershell.svg">
   <img title="Git" height="45" src="assets/git.svg">
+  <img title="Groovy" height="45" src="assets/groovy.svg">
   <img title="Javascript" height="45" src="assets/javascript.svg">
   <img title="Go" height="45" src="assets/golang.svg">
   <img title="VsCode" height="45" src="assets/vscode.png">
@@ -48,7 +49,7 @@ I'm currently interested in learning Rust and strengthening my proficiency in Go
   <a href="https://www.linkedin.com/in/micha%C5%82-nowak-777963163/">
     <img src="assets/linkedin.svg" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/user6950/">
+  <a href="https://leetcode.com/m1nw/">
     <img src="assets/leet_code.png" alt="LeetCode" />
   </a>
 </p>
