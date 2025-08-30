@@ -22,7 +22,7 @@ I feel confident in my ability to create custom build systems, and to develop da
 </p>
 
 <h2 align="center">
-  :pencil2: Techs :pencil2:
+  :computer: Operating Systems
 </h2>
 <p align="center">
   <img title="Ubuntu" height="45" src="assets/ubuntu_linux.svg">
@@ -31,7 +31,7 @@ I feel confident in my ability to create custom build systems, and to develop da
 </p>
 
 <h2 align="center">
-  :pencil2: Techs :pencil2:
+  :pencil2: Technologies
 </h2>
 <p align="center">
   <a href="https://github.com/nowek7/cpp_codes">
@@ -52,7 +52,7 @@ I feel confident in my ability to create custom build systems, and to develop da
 </p>
 
 <h2 align="center">
-  :pencil2 Tools
+  :hammer: Tools
 </h2>
 <p align="center">
   <img title="Git" height="45" src="assets/git.svg">
